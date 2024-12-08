@@ -1,0 +1,2 @@
+# LiczbaAvogardo
+Strona Od Chemii 
